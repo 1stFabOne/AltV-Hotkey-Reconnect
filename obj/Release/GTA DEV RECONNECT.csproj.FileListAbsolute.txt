@@ -1,0 +1,10 @@
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\bin\Release\AltV Hotkey Reconnect.exe.config
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\bin\Release\AltV Hotkey Reconnect.exe
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\bin\Release\AltV Hotkey Reconnect.pdb
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\GTA DEV RECONNECT.csprojAssemblyReference.cache
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\GTA_DEV_RECONNECT.Form1.resources
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\GTA_DEV_RECONNECT.Properties.Resources.resources
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\GTA DEV RECONNECT.csproj.GenerateResource.cache
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\GTA DEV RECONNECT.csproj.CoreCompileInputs.cache
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\AltV Hotkey Reconnect.exe
+C:\Users\0xffffff\source\repos\GTA DEV RECONNECT\obj\Release\AltV Hotkey Reconnect.pdb

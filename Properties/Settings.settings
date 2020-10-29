@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GTA_DEV_RECONNECT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Hotkey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">114</Value>
+    </Setting>
+    <Setting Name="HotkeyText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
